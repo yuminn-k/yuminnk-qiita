@@ -1,11 +1,11 @@
 ---
 title: より良いUXのためのウェブパフォーマンス最適化ガイド7選
 tags:
-  - web
+  - Web
   - performance
 private: false
-updated_at: '2026-01-02T01:02:00+09:00'
-id: 
+updated_at: '2026-01-02T01:03:34+09:00'
+id: 2bd06686a56a1ddd23cc
 organization_url_name: null
 slide: false
 ignorePublish: false
